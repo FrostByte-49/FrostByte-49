@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **FrostByte-49/FrostByte-49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
