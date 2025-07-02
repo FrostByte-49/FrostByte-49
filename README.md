@@ -37,9 +37,9 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
   <img align="center" alt="GitHub" title="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> &nbsp;
   <!-- Tools & Platforms -->
   <img align="center" alt="VS Code" title="VS Code" height="32" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> &nbsp;
-  <img align="center" alt="Replit" title="Replit" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" /> &nbsp;
-  <img align="center" alt="Postman" title="Postman" height="35" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> <br><br>
+  <img align="center" alt="Replit" title="Replit" height="32" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" /> <br><br>
   <img align="center" alt="Netlify" title="Netlify" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" /> &nbsp;
+  <img align="center" alt="Postman" title="Postman" height="35" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> &nbsp;
 </div>
 
 ##
@@ -52,7 +52,7 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br> -->
   <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" />
 </p>
 
