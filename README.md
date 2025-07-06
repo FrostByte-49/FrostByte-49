@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pranav Khalate
+<h1><img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NpNGtwaWU1dGhmdGpmN2ZoMTYwcmtsdW9wanY1eWZ2NzRkM2d3dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Hb1m3Eo7Brsdk2ywQF/giphy.gif" width="90"/> &nbsp; Pranav Khalate</h1> <br>
 
 **`Computer Engineering Student`**  **`Web Developer`**  **`AI/ML Explorer`**
 
