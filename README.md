@@ -1,4 +1,4 @@
-<h1><img align="left" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="83"/> &nbsp; Pranav Khalate</h1>
+<h1><img align="left" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="83"/> Pranav Khalate</h1>
 
 **`Computer Engineering Student`**  **`Web Developer`**  **`AI/ML Explorer`**
 
