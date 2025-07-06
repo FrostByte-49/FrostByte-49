@@ -36,8 +36,8 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
   <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp; &nbsp;
   <img align="center" alt="GitHub" title="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> &nbsp; &nbsp;
   <!-- Tools & Platforms -->
-  <img align="center" alt="VS Code" title="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <br><br>
-  <img align="center" alt="Replit" title="Replit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="VS Code" title="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> &nbsp;
+  <img align="center" alt="Replit" title="Replit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" /> &nbsp; <br><br>
   <img align="center" alt="Netlify" title="Netlify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" /> &nbsp; &nbsp;
   <img align="center" alt="Postman" title="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> &nbsp; &nbsp;
 </div>
