@@ -47,8 +47,8 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
 ### 📊 GitHub Stats <br><br>
 
 <p align="center">
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;
-  <img height="180em" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br><br>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;
+  <img height="180em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight&card_width=500"/>
 </p>
 
