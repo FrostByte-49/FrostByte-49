@@ -22,9 +22,9 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
   <!-- Languages -->
   <img align="center" alt="HTML" title="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="CSS" title="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-  <img align="center" alt="JavaScript" title="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-  <img align="center" alt="C" title="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp;
-  <img align="center" alt="C++" title="C++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> &nbsp;
+  <img align="center" alt="JavaScript" title="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp; &nbsp;
+  <img align="center" alt="C" title="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp; &nbsp;
+  <img align="center" alt="C++" title="C++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> &nbsp; &nbsp;
   <img align="center" alt="JSON" title="JSON" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"> &nbsp;
   <img align="center" alt="Markdown" title="Markdown" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"> &nbsp;
   <!-- Frameworks & Libraries -->
