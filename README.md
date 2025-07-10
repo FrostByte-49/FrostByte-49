@@ -9,8 +9,8 @@ I'm a Computer Engineering Student at the University of Mumbai, passionate about
 I’ve built real-world projects across diverse domains, from a Zener Diode Simulator that helped over 600+ users visualize electronics concepts, to a Minimalist Mood Tracker for offline journaling & an AI-Powered Health Platform for symptom checking & personalized care. I'm currently diving deeper into AI/ML and I enjoy participating in hackathons and open-source communities where I can turn creative ideas into meaningful digital products.
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/FrostByte-49?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FrostByte-49?color=FF69B4&style=for-the-badge&labelColor=E91E63&logo=star&logoColor=white&label=Stars"/></a>&nbsp;
-  <a href="https://github.com/FrostByte-49?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/FrostByte-49?color=BA68C8&labelColor=8E24AA&style=for-the-badge&logo=github&logoColor=white&label=Followers"/></a>&nbsp;
+  <a href="https://github.com/FrostByte-49?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/FrostByte-49?style=for-the-badge&color=FF69B4&label=Stars&logo=star&logoColor=white&labelColor=E91E63" /></a>&nbsp;
+  <a href="https://github.com/FrostByte-49?tab=followers" style="text-decoration: none;"><img alt="GitHub Followers" title="Follow Me on GitHub" src="https://img.shields.io/github/followers/FrostByte-49?style=for-the-badge&color=BA68C8&label=Followers&logo=github&logoColor=white&labelColor=8E24AA" /></a>&nbsp;
   <a href="https://github.com/FrostByte-49" style="text-decoration: none;"><img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=FrostByte-49&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
 </div>
 
