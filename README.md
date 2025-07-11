@@ -16,31 +16,30 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
 
 ##
 
-### ⚙ Languages & Technologies
+### ⚙ Languages & Technologies <br><br>
 
-<div style="display: inline-block;"> <br>
+<p align="left">
   <!-- Languages -->
-  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp; &nbsp;
-  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp; &nbsp;
-  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp; &nbsp;
-  <img align="center" alt="C" title="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp; &nbsp;
-  <img align="center" alt="C++" title="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> &nbsp; &nbsp;
-  <img align="center" alt="JSON" title="JSON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"> &nbsp; &nbsp;
-  <img align="center" alt="Markdown" title="Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"> &nbsp; &nbsp;
-  <!-- Frameworks & Libraries -->
-  <img align="center" alt="Chart.js" title="Chart.js" height="30" width="40" src="https://www.chartjs.org/img/chartjs-logo.svg"> &nbsp; &nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Markdown"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="50"/></a> &nbsp;&nbsp;
+   <!-- Frameworks & Libraries -->
+  <a href="https://skillicons.dev" target="_blank" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Threejs" height="50"/></a> &nbsp;&nbsp;
   <!-- APIs & Cloud -->
-  <img align="center" alt="Firebase" title="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> &nbsp; &nbsp;
-  <img align="center" alt="GCP" title="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> &nbsp; &nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="GCP"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50"/></a> &nbsp;&nbsp;
   <!-- Version Control -->
-  <img align="center" alt="GitHub" title="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> &nbsp; &nbsp;
-  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp; &nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/></a> &nbsp;&nbsp;
   <!-- Tools & Platforms -->
-  <img align="center" alt="VS Code" title="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> &nbsp; &nbsp;
-  <img align="center" alt="Replit" title="Replit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" /> &nbsp; <br><br>
-  <img align="center" alt="Netlify" title="Netlify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" /> &nbsp; &nbsp;
-  <img align="center" alt="Postman" title="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"> &nbsp; &nbsp;
-</div>
+  <a href="https://skillicons.dev" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Replit"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50"/></a>
+</p>
 
 ##
 
