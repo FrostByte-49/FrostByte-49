@@ -20,25 +20,25 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
 
 <p align="left">
   <!-- Languages -->
-  <a href="https://skillicons.dev" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="Markdown"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Markdown"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" height="40"/></a> &nbsp;&nbsp;
    <!-- Frameworks & Libraries -->
-  <a href="https://skillicons.dev" target="_blank" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Threejs" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs" alt="Threejs" height="40"/></a> &nbsp;&nbsp;
   <!-- APIs & Cloud -->
-  <a href="https://skillicons.dev" target="_blank" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="GCP"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="GCP"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40"/></a> &nbsp;&nbsp;
   <!-- Version Control -->
-  <a href="https://skillicons.dev" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a> &nbsp;&nbsp;
   <!-- Tools & Platforms -->
-  <a href="https://skillicons.dev" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="Replit"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" height="50"/></a> &nbsp;&nbsp;
-  <a href="https://skillicons.dev" target="_blank" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50"/></a>
+  <a href="https://skillicons.dev" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Replit"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" height="40"/></a> &nbsp;&nbsp;
+  <a href="https://skillicons.dev" target="_blank" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40"/></a>
 </p>
 
 ##
