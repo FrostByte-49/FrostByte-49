@@ -50,8 +50,8 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
   <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br> 
   <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" />
 </p>
 
