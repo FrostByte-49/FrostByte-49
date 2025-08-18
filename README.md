@@ -45,25 +45,13 @@ I’ve built real-world projects across diverse domains, from a Zener Diode Simu
 
 ### 📊 GitHub Stats <br><br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em" width="425" src="https://github-readme-stats.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-
+<p align="center"> 
+  <img height="180em" width="430" src="https://github-readme-stats.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp; 
+  <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight"/> 
+</p>
 
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br>  -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br> 
   <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" />
 </p>
 
