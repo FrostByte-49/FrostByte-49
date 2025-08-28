@@ -4,9 +4,9 @@
 
 ### 🌟 About Me
 
-I'm a Computer Engineering Student at the University of Mumbai, passionate about creating user-focused digital experiences. My journey into tech started with a curiosity for how the web works, which grew into a strong interest in Web Development, Data Structures & UI/UX Design. Over time, I’ve built responsive interfaces using tools like JavaScript & developed a problem-solving mindset through coding contests & practical projects.
+I’m currently pursuing a Bachelor's Degree in Computer Science & Engineering. My journey began with a deep curiosity for understanding how technology works, which soon evolved into a strong passion for programming. Along the way, I’ve developed a strong problem-solving mindset through coding contests and practical projects while building clean, responsive interfaces.
 
-I’ve built real-world projects across diverse domains, from a Zener Diode Simulator that helped over 600+ users visualize electronics concepts, to a Minimalist Mood Tracker for offline journaling & an AI-Powered Health Platform for symptom checking & personalized care. I'm currently diving deeper into AI/ML and I enjoy participating in hackathons and open-source communities where I can turn creative ideas into meaningful digital products.
+I’ve built real-world projects across diverse domains, from a Zener Diode Simulator ( [ZenerSim](https://zenersim.netlify.app/) ) that helped over 600+ users visualize electronics concepts, to a Minimalist Mood Tracker ( [MindEaze](https://mindeaze.netlify.app/) ) for offline journaling and an AI-Powered Health Platform ( [SymptoWise](https://symptowise.netlify.app/) ) for symptom checking and personalized care. I enjoy participating in Hackathons and Open-Source Communities where I can turn creative ideas into meaningful digital products.
 
 <div align="left" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/FrostByte-49?tab=repositories&sort=stargazers" style="text-decoration: none;"><img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/FrostByte-49?style=for-the-badge&color=FF69B4&label=Stars&logo=github&logoColor=white&labelColor=E91E63" /></a>&nbsp;
@@ -69,5 +69,3 @@ I'd Love To Connect & Explore New Possibilities Together. Send A Spark My Way! �
   <a href="mailto:pranav.kh49@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a> &nbsp;
   <a href="https://discord.com/users/1377918872925241375" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank"/></a>
 </div>
-
-
