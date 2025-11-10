@@ -66,6 +66,7 @@ I'd Love To Connect & Explore New Possibilities Together. Send A Spark My Way! â
 <div align="left">
   <a href="https://www.linkedin.com/in/pranav-kh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
   <a href="https://github.com/FrostByte-49" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;
+  <a href="https://pranavkhalate.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3a86ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> &nbsp;
   <a href="mailto:pranav.kh49@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/></a> &nbsp;
-  <a href="https://discord.com/users/1377918872925241375" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank"/></a>
+  <a href="https://discord.com/users/1377918872925241375" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank"/></a> 
 </div>
