@@ -1,6 +1,6 @@
 <h1>Pranav Khalate <img align="center" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="80"/></h1>
 
-**`Computer Engineering Student`** &nbsp; **`Open Source Contributor`**
+**`Computer Engineering Student`** &nbsp; **`Open Source Contributor`** &nbsp; **`4x Hackathon Winner`**
 
 ### 🌟 About Me
 
