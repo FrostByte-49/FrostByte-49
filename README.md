@@ -48,7 +48,8 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 <p align="center"> 
   <img height="180em" width="430" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;
   <img height="180em" width="386" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight"/> <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FrostByte-49&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=FrostByte-49&theme=tokyonight" />
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=FrostByte-49&theme=tokyonight" /> -->
 </p>
 
 <p align="center">
