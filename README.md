@@ -16,7 +16,7 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 
 ##
 
-### ⚙ Languages & Technologies <br>
+### ⚙ Languages & Technologies <br><br>
 
 <p align="left">
   <!-- Languages -->
