@@ -60,6 +60,15 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 
 ## 
 
+### 📊 GitHub Stats <br><br>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrostByte-49&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=dracula"/> <br><br> 
+  <img src="https://streak-stats.demolab.com?user=FrostByte-49&theme=dracula" />
+</p>
+
+##
+
 ### 🔗 Let's Connect!
 
 I'd Love To Connect & Explore New Possibilities Together. Send A Spark My Way! ⚡ <br>
