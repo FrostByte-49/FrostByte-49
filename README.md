@@ -55,19 +55,10 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 <p align="center">
   <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostByte-49&theme=tokyonight" /> <br> -->
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=FrostByte-49&theme=tokyonight" /> <br/> -->
-  <!-- <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" /> -->
+  <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" />
 </p>
 
 ## 
-
-### 📊 GitHub Stats <br><br>
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrostByte-49&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=dracula"/> <br><br> 
-  <img src="https://streak-stats.demolab.com?user=FrostByte-49&theme=dracula" />
-</p>
-
-##
 
 ### 🔗 Let's Connect!
 
