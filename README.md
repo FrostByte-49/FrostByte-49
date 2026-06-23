@@ -16,7 +16,7 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 
 ##
 
-### ⚙ Languages & Technologies <br><br>
+### ⚙ Languages & Technologies <br>
 
 <p align="left">
   <!-- Languages -->
@@ -43,48 +43,7 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 
 ##
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight" />
-</p>
-
-##
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=FrostByte-49&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FrostByte-49&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FrostByte-49&theme=tokyonight" />
-</p>
-
-##
-
-### 📊 GitHub Stats <br><br>
+### 📊 GitHub Stats <br>
 
 <p align="center"> 
   <img height="180em" width="430" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;
@@ -98,6 +57,8 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=FrostByte-49&theme=tokyonight" /> <br/> -->
   <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" />
 </p>
+
+##
 
 ### 🔗 Let's Connect!
 
