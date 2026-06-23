@@ -46,7 +46,7 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight" /> &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight" />
 </p>
 
