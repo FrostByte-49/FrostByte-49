@@ -14,17 +14,6 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
   <a href="https://github.com/FrostByte-49" style="text-decoration: none;"><img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=FrostByte-49&color=FF69B4&style=for-the-badge&labelColor=FF69B4&logo=github&logoColor=white&label=Visitors"/></a>
 </div>
 
-### ⚙ Languages & Technologies <br><br>
-
-<p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwindcss,sass,figma,nodejs,express,java,cs,cpp,postgresql,mysql,mongodb,redis,sqlite,prisma,gcp,vercel,netlify,firebase,supabase,git,github,react,android,apple,vscode&perline=18"
-    alt="React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass, Figma, Node.js, Express, Java, C#, C++, PostgreSQL, MySQL, MongoDB, Redis, SQLite, Prisma, GCP, Vercel, Netlify, Firebase, Supabase, Git, GitHub, React Native, Android, iOS, VS Code"
-    width="100%"
-  />
-</p>
-
-
 ##
 
 ### ⚙ Languages & Technologies <br><br>
