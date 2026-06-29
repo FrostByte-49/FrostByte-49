@@ -43,6 +43,13 @@ I’ve developed real-world projects across diverse domains, from a Zener Diode 
 
 ##
 
+### ⚙ Languages & Technologies <br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwindcss,sass,figma,nodejs,express,java,cs,cpp,postgresql,mysql,mongodb,redis,sqlite,prisma,gcp,vercel,netlify,firebase,supabase,git,github,react,android,apple,vscode&perline=14" alt="React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass, Figma, Node.js, Express, Java, C#, C++, PostgreSQL, MySQL, MongoDB, Redis, SQLite, Prisma, GCP, Vercel, Netlify, Firebase, Supabase, Git, GitHub, React Native, Android, iOS, VS Code" />
+</p>
+
+##
+
 ### 📊 GitHub Stats <br>
 
 <p align="center"> 
