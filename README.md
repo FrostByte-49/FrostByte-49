@@ -15,7 +15,7 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 
 ##
 
-### ⚙ Languages & Technologies <br>
+### ⚙ Languages & Technologies <br><br>
 
 <p align="left">
   <img 
