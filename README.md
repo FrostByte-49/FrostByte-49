@@ -49,13 +49,11 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 </p>
 
 ### 🌐 Let's Connect!
-I'd love to connect & explore new possibilities together. Send a spark my way! ⚡ 
-<div align="left">
-  <a href="pranav.kh25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
-  <a href="https://github.com/FrostByte-49" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;
-  <a href="https://linkedin.com/in/pranav-kh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-  <a href="https://pranavkh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3a86ff?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/></a> 
-</div>
+I'd love to connect & explore new possibilities together. Send a spark my way! ⚡
+
+[![Email](https://doodlebug.tarinagarwal.in/api/card/link?label=Email&icon=mail&theme=notebook&grid=none)](pranav.kh25@gmail.com) &nbsp;
+[![Linkedin](https://doodlebug.tarinagarwal.in/api/card/link?label=LinkedIn&icon=linkedin)](https://www.linkedin.com/in/pranav-kh/) &nbsp;
+[![Portfolio](https://doodlebug.tarinagarwal.in/api/card/link?label=Portfolio&icon=globe&theme=candy&grid=none)](https://pranavkh.vercel.app/)
 
 ##
 
