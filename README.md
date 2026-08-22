@@ -29,9 +29,9 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 ### 🔥 GitHub Stats
 
 <p align="center"> 
-  <img width="430em" src="https://doodlebug.tarinagarwal.in/api/card/stats?username=frostbyte-49&show=reviews&theme=sakura&grid=none"/> &nbsp;
-  <img height="212em" src="https://doodlebug.tarinagarwal.in/api/card/langs?username=frostbyte-49&layout=pie&langs_count=4&theme=sakura&grid=none"/> <br>
-  <img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=frostbyte-49&theme=sakura&grid=none" />
+  <img width="430em" src="https://doodlebug.tarinagarwal.in/api/card/stats?username=frostbyte-49&show=reviews&theme=auto&grid=none"/> &nbsp;
+  <img height="212em" src="https://doodlebug.tarinagarwal.in/api/card/langs?username=frostbyte-49&layout=pie&langs_count=4&theme=auto&grid=none"/> <br>
+  <img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=frostbyte-49&theme=auto&grid=none" />
 </p>
 
 ##
@@ -39,7 +39,7 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://doodlebug.tarinagarwal.in/api/card/trophies?username=frostbyte-49&columns=9&show=reviews%2Cforks&grid=none&theme=sakura" />
+  <img src="https://doodlebug.tarinagarwal.in/api/card/trophies?username=frostbyte-49&columns=9&show=reviews%2Cforks&grid=none&theme=auto" />
 </p>
 
 ##
