@@ -29,9 +29,9 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 ### 🔥 GitHub Stats
 
 <p align="center"> 
-  <img width="430em" src="https://doodlebug.tarinagarwal.in/api/card/stats?username=frostbyte-49&show=reviews&theme=auto&grid=none"/> &nbsp;
+  <img width="430em" src="https://doodlebug.tarinagarwal.in/api/card/stats?username=frostbyte-49&show=reviews&theme=auto&grid=none&title=FrostByte%27s+GitHub+Stats"/> &nbsp;
   <img height="212em" src="https://doodlebug.tarinagarwal.in/api/card/langs?username=frostbyte-49&layout=pie&langs_count=4&theme=auto&grid=none"/> <br>
-  <img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=frostbyte-49&theme=auto&grid=none" />
+  <img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=frostbyte-49&theme=auto&grid=none&hide_title=true" />
 </p>
 
 ##
