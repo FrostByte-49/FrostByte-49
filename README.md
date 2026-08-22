@@ -26,20 +26,12 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 
 ##
 
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center"> 
   <img width="430em" src="https://doodlebug.tarinagarwal.in/api/card/stats?username=frostbyte-49&show=reviews&theme=sakura&grid=none"/> &nbsp;
   <img height="212em" src="https://doodlebug.tarinagarwal.in/api/card/langs?username=frostbyte-49&layout=pie&langs_count=4&theme=sakura&grid=none"/> <br>
   <img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=frostbyte-49&theme=sakura&grid=none" />
-</p>
-
-##
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="1000" src="https://doodlebug.tarinagarwal.in/api/card/graph?username=frostbyte-49&seed=squp0&theme=sakura&hide_title=true&hide_border=true&days=100&grid=none" alt="Contribution Graph" />
 </p>
 
 ##
@@ -56,7 +48,7 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
   <img align="right" src="https://res.cloudinary.com/dhn92qb61/image/upload/v1751383267/123_qcnao2.webp" height="180px" width="180px" />
 </p>
 
-### 🔗 Let's Connect!
+### 🌐 Let's Connect!
 I'd love to connect & explore new possibilities together. Send a spark my way! ⚡ 
 <div align="left">
   <a href="pranav.kh25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;
