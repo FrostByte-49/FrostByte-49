@@ -29,15 +29,9 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 ### 📊 GitHub Stats
 
 <p align="center"> 
-  <img src="https://doodlebug.tarinagarwal.in/api/card/stats?username=frostbyte-49&show=reviews&theme=sakura"/> &nbsp;
-  <img height="245em" src="https://doodlebug.tarinagarwal.in/api/card/langs?username=frostbyte-49&langs_count=5&theme=sakura"/> <br>
+  <img width="430em" src="https://doodlebug.tarinagarwal.in/api/card/stats?username=frostbyte-49&show=reviews&theme=sakura"/> &nbsp;
+  <img height="212em" src="https://doodlebug.tarinagarwal.in/api/card/langs?username=frostbyte-49&langs_count=4&theme=sakura"/> <br>
   <img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=frostbyte-49&theme=sakura&grid=none" />
-</p>
-
-<p align="center"> 
-  <img height="180em" width="430" src="https://github-stats-extended.vercel.app/api?username=FrostByte-49&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;
-  <img height="180em" width="386" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FrostByte-49&layout=compact&theme=tokyonight"/> <br>
-  <img src="https://streak-stats.demolab.com?user=FrostByte-49&theme=tokyonight" />
 </p>
 
 ##
