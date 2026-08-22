@@ -51,7 +51,7 @@ I’ve developed real-world projects across diverse domains, from ( [Wharf](http
 ### 🌐 Let's Connect!
 I'd love to connect & explore new possibilities together. Send a spark my way! ⚡
 
-[![Email](https://doodlebug.tarinagarwal.in/api/card/link?label=Email&icon=mail&theme=notebook&grid=none)](pranav.kh25@gmail.com) &nbsp;
+[![Email](https://doodlebug.tarinagarwal.in/api/card/link?label=Email&icon=mail&theme=notebook&grid=none)](mailto:pranav.kh25@gmail.com) &nbsp;
 [![Linkedin](https://doodlebug.tarinagarwal.in/api/card/link?label=LinkedIn&icon=linkedin)](https://www.linkedin.com/in/pranav-kh/) &nbsp;
 [![Portfolio](https://doodlebug.tarinagarwal.in/api/card/link?label=Portfolio&icon=globe&theme=candy&grid=none)](https://pranavkh.vercel.app/)
 
